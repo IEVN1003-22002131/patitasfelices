@@ -1,5 +1,5 @@
 ## Patitas Felices Repositorio
-Proyecto del equipo Patitas Felices — gestión y desarrollo colaborativo.
+Proyecto del equipo Patitas Felices — gestión y desarrollo colaborativo
 
 ## Estructura del repositorio
 - /src       → Código fuente
