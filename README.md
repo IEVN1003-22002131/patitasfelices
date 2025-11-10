@@ -1,5 +1,4 @@
-🐾 Patitas Felices
-
+## Patitas Felices Repositorio
 Proyecto del equipo Patitas Felices — gestión y desarrollo colaborativo.
 
 ## Estructura del repositorio
